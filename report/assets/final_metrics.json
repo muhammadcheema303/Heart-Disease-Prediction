@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "max_depth": 10,
+    "min_samples_split": 2,
+    "n_estimators": 200
+  },
+  "metrics": {
+    "Accuracy": 0.819672131147541,
+    "Precision": 0.7619047619047619,
+    "Recall": 0.9696969696969697,
+    "F1 Score": 0.8533333333333334,
+    "ROC AUC": 0.9074675324675325
+  }
+}
